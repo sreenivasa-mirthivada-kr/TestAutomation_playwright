@@ -1,0 +1,10 @@
+{
+    "loginPageMaps":{
+        "title_loginPage" : "Automation Exercise - Signup / Login",
+        "txt_InvalidLogin" : "Your email or password is incorrect!",
+        "txtBox_userName" :"//*[@id='form']/div/div/div[1]/div/form/input[2]",
+        "txtBox_password" : "//*[@id='form']/div/div/div[1]/div/form/input[3]",
+        "btn_login":"//*[@id='form']/div/div/div[1]/div/form/button"
+        }
+    }
+   
